@@ -1,0 +1,6 @@
+com\bootcamp\catninja\repository\FactRepository.class
+com\bootcamp\catninja\service\FactService.class
+com\bootcamp\catninja\controller\FactController.class
+com\bootcamp\catninja\CatninjaApplication.class
+com\bootcamp\catninja\controller\FactResponse.class
+com\bootcamp\catninja\utils\SwaggerConfig.class
